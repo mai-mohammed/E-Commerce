@@ -147,12 +147,18 @@ nav ul {
     width : 75%;
     justify-content: space-between;
 }
+.category{
+  display : none ;
+}
 .add-to-cart-btn{
     border: none;
     background-color :transparent;
     font-weight :bolder;
     font-size : 20px;
     cursor: pointer ;
+}
+.fa-cart-plus:hover{
+  color : #836add ;
 }
 /* ------------ Footer ------------- */
 footer {
